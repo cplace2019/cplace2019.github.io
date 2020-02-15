@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Welcome to cplace2019's Project Portfolio Homepage
 
-You can use the [editor on GitHub](https://github.com/cplace2019/cplace2019.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![icon](icon.jpg)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### A little bit about who I am
 
-```markdown
-Syntax highlighted code block
+My name is Carmen Renwick.  I am a student at Delaware County Community College.  My major is Computer Science.  This semester I' m taking web development courses: Javascript and Mobile Web Development.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### A little bit about my portolio
 
-1. Numbered
-2. List
+This portfolio will showcase my web projects completed while studying Mobile Web Development at Delaware County Community College with Professor Gustin.  Some of the web projects I will be working on are listed below. 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### A list of portfolio projects:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Media Queries
+- Skeleton
+- Flexbox
+- Bootstrap
+- UIKit
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cplace2019/cplace2019.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### More to come...
+
+I'm just getting started but feel free to bookmark this to keep an eye on my project updates.
+
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages?  Contact me at crenwick@mail.dccc.edu.
