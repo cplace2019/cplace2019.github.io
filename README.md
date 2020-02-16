@@ -1,6 +1,6 @@
 ## Welcome to cplace2019's Project Portfolio Homepage
 
-![logo image](logo.jpg)
+![logo image](logo.jpg =100x100)
 
 
 ### A little bit about who I am
