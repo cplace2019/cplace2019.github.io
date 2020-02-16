@@ -1,7 +1,6 @@
 ## Welcome to cplace2019's Project Portfolio Homepage
 
-
-![icon](icon.jpg)
+![icon image](icon.jpg)
 
 
 ### A little bit about who I am
