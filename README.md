@@ -1,7 +1,8 @@
 ## Welcome to cplace2019's Project Portfolio Homepage
 
-![logo image](logo.jpg){width="100px" height="100px"}
-
+<div style="width:150px; height:100px; align:center">
+![logo](logo.jpg)
+</div>
 
 ### A little bit about who I am
 
