@@ -18,7 +18,6 @@ This portfolio will showcase my web projects completed while studying Mobile Web
 - Skeleton
 - Flexbox
 - Bootstrap
-- UIKit
 
 
 ### More to come...
