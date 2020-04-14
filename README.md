@@ -15,7 +15,7 @@ This portfolio will showcase my web projects completed while studying Mobile Web
 ### A list of portfolio projects:
 
 - [Media Queries](https://cplace2019.github.io/DPR241-Portfolio-Home-Page/)
-- Skeleton
+- [Skeleton](https://cplace2019.github.io/DPR241-ResumeUsingSkeleton-Page/)
 - Flexbox
 - Bootstrap
 
